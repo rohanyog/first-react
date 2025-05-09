@@ -14,6 +14,11 @@ import Pr1 from "./forpractice/Pr1";
 <Pr1/>
       <Forcss/>
       <Counter/>
+      <Forcss/>
+      <Routes>
+         <Route path="/" element={<Home/>}/>
+         <Route path="/about" element={<About/>}/>
+        </Routes> 
     </>
     )
 //     const user = { name: 'John', age: 30 };
