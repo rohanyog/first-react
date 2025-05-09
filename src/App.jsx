@@ -12,6 +12,8 @@ import Pr1 from "./forpractice/Pr1";
     return(
     <>
 <Pr1/>
+      <Forcss/>
+      <Counter/>
     </>
     )
 //     const user = { name: 'John', age: 30 };
